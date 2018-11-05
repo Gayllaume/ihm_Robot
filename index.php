@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mon 120eme sites Web</title>
+	<title>IHM Robot</title>
 </head>
 <body style="text-align: center;">
 	<dir id="titre" style="border-style: solid;"><h1>Mon site Web</h1></dir>
